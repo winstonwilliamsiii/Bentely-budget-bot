@@ -5,11 +5,7 @@ from pathlib import Path
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-<<<<<<< Updated upstream
-    page_title='BBB dashboard',
-=======
-    page_title='Bentely Budget Bot Dashboard',
->>>>>>> Stashed changes
+    page_title='GDP dashboard',
     page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
 )
 
@@ -153,3 +149,4 @@ for i, country in enumerate(selected_countries):
             delta=growth,
             delta_color=delta_color
         )
+        
