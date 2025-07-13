@@ -1,4 +1,4 @@
-# Bentely Bot: Fiscal Budget Dashboard 
+# Bentley Bot: Fiscal Budget Dashboard 
 
 Creating a web application that features a budget dashboard and AI Agent. 
 
