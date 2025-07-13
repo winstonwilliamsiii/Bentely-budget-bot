@@ -5,11 +5,7 @@ from pathlib import Path
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-<<<<<<< HEAD
     page_title='Bently Budget Bot Dashboard',
-=======
-    page_title='BBB dashboard',
->>>>>>> 2fc7442 (Changed Title)
     page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
 )
 
